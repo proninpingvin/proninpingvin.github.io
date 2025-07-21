@@ -2732,17 +2732,17 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/227. Health _ Fitness/HTML/scss/_bradcam.scss */
 .bradcam_bg_1 {
-  background-image: url(../img/banner/bradcam_1.png);
+  background-image: url(../img/banner/banner12.png);
 }
 
 /* line 4, ../../Arafath/CL/Cl November/227. Health _ Fitness/HTML/scss/_bradcam.scss */
 .bradcam_bg_2 {
-  background-image: url(../img/banner/bradcam_2.png);
+  background-image: url(../img/banner/banner12.png);
 }
 
 /* line 7, ../../Arafath/CL/Cl November/227. Health _ Fitness/HTML/scss/_bradcam.scss */
 .bradcam_bg_3 {
-  background-image: url(../img/banner/bradcam_3.png);
+  background-image: url(../img/banner/banner12.png);
 }
 
 /* line 10, ../../Arafath/CL/Cl November/227. Health _ Fitness/HTML/scss/_bradcam.scss */
@@ -2797,7 +2797,7 @@ h3 {
 /* line 39, ../../Arafath/CL/Cl November/227. Health _ Fitness/HTML/scss/_bradcam.scss */
 .bradcam_area .single_bradcam .bradcam_text h3 {
   font-family: "Paytone One", sans-serif;
-  font-size: 153px;
+  font-size: 103px;
   text-transform: uppercase;
   font-weight: 400;
   color: #fff;
